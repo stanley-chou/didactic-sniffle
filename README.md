@@ -6,6 +6,8 @@ by Sunny Chen, Anis Chihoub, and Stanley Chou
 This Repository holds the files important for running the models and code of our Street Fighter 2 Reinforcement Learning Model which was written for 
 Rutgers ECE 472 Robotics as our final project
 
+The Final Project Video: https://drive.google.com/file/d/1HUGXgrD_jyb7GTZ6S57hxbDman6UXoht/view
+
 The Files:
 
 Robotics_Final_Project_DQN: The Jupyter Notebook file that holds the code for our implementation of reinforcement learning on Streetfighter
