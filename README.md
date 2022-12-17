@@ -1,4 +1,5 @@
 # didactic-sniffle
+#N.B this name is used only so that people don't find it by searching for it on the web and use our work later, the only way they find this is by knowing that this randomly named repo is actually our robotics SF2 final project
 
 by Sunny Chen, Anis Chihoub, and Stanley Chou
 
