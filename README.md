@@ -19,5 +19,5 @@ computer
 ModelRank1RewardV2...: Folder that holds the first version of the first of the two PPO models we trained and the best version. You can run these files
 from any of the other notebooks to continue training, or to play and watch the agent fight through street fighter
 
-ModelRank1RewardV2...: Folder that holds the first version of second of the two PPO models we trained and the best version. You can run these files
+ModelRank2RewardV2...: Folder that holds the first version of second of the two PPO models we trained and the best version. You can run these files
 from any of the other notebooks to continue training, or to play and watch the agent fight through street fighter
