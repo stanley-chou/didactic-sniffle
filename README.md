@@ -13,11 +13,14 @@ using a DQN. The bottom of the file also includes demos and videos of the model 
 Robotics_Final_Porject_PPO: The Jupyter Notebook file that holds the code for our implementation of reinforcement learning on Streetfighter
 using a PPO.
 
-Robotics_Final_Porject_Run: The Jupyter Notebook file that holds the code for running and rendering how a chosen model plays the game on your personal 
-computer
+Robotics_Final_Porject_Run: The Jupyter Notebook file that holds the code for running and rendering how a chosen model plays the game on your personal computer
 
 ModelRank1RewardV2...: Folder that holds the first version of the first of the two PPO models we trained and the best version. You can run these files
 from any of the other notebooks to continue training, or to play and watch the agent fight through street fighter
 
 ModelRank2RewardV2...: Folder that holds the first version of second of the two PPO models we trained and the best version. You can run these files
 from any of the other notebooks to continue training, or to play and watch the agent fight through street fighter
+
+Robotics_Final_Porject_Written_Report: The PDF of our written report for our final project
+
+Robotics_Final_Porject_Video_Slides: The PDF of the slides we used in our video presentation
